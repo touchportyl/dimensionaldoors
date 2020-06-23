@@ -1,6 +1,6 @@
-# Dimensional Doors v1.2 for Vanilla MC 1.16-rc1
+# Dimensional Doors v1.2 for Vanilla MC 1.16
 - Code by [touchportal](https://github.com/touchportal/)
-- Help from [Lord_Pundus](https://github.com/pundus/)
+- Help from [Pundus](https://github.com/pundus/)
 
 # Features
 - Dimensional door
@@ -13,7 +13,8 @@
 - Open the door
 - Throw a Conduit onto the floor (where the door block is)
 - The door will automatically close and turn into a dimensional door
-- Open the door and walk into it
+- Use the entangled conduit it spawned to create another door
+- Open the door and walk through
 
 # Future updates
 - Pocket dimensions

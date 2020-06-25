@@ -1,4 +1,4 @@
-# Dimensional Doors v1.2 for Vanilla MC 1.16
+# Dimensional Doors v1.3 for Vanilla MC 1.16.1
 - Code by [touchportal](https://github.com/touchportal/)
 - Help from [Pundus](https://github.com/pundus/)
 
@@ -37,5 +37,7 @@
 - Updated the door closing mechanism for 1.16-pre7 (Added in v1.2)
 - Doors now stay loaded when relogging (Added in v1.2)
 - Optimized chunk loading/unloading when doors are created/destroyed (Added in v1.2)
+
+- Fixed a massive bug where entering a linked door would cause an incorrect door404 (Added in v1.3)
 
 ---

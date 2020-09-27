@@ -1,12 +1,14 @@
-# Dimensional Doors v1.3.1 for Vanilla MC 1.16.1-1.16.2
+# Dimensional Doors v2.0.0 for Vanilla MC 1.15.X - 1.16.X
 - Code by [touchportal](https://github.com/touchportal/)
 - Help from [Pundus](https://github.com/pundus/)
 
 # Features
 - Dimensional door
 - Another use for the conduit
-- Particles and sounds
-- Full multiplayer support
+- Teleport entities massive distances and through dimensions
+- Use as a chunk loader
+- Sound effects and particles
+- Multiplayer support
 
 # How to use
 - Place an oak door down
@@ -17,29 +19,13 @@
 - Open the door and walk through
 
 # Future updates
-- Pocket dimensions
-- Potential update to use a different system
+- Optimizations
+- Automatically perform a safe teleport if the warp location is deemed dangerous (into lava, off a cliff, or into a solid wall)
+- Pocket dimensions using iron doors
+- Suggest more!
 
 # Changelog
-- Detection area the size of a door (Added in v0.1-alpha)
+You can find the full v2.0.0 changelog in changelog.md
 
-- Dimensional door (Added in v1.0)
-- Teleports you to a random location in a 100 block radius when you walk through it (Added in v1.0)
-- Particles and sounds (Added in v1.0)
-
-- Door closing mechanism (Added in v1.1)
-- Added door to door teleporting (Added in v1.1)
-- Allow entities to travel through doors (Added in v1.1)
-- Explosive door destruction (Added in v1.1)
-- Displace player if no linking door can be found (Added in v1.1)
-- Inaccurate teleport if doors are close together (Added in v1.1)
-
-- Updated the door closing mechanism for 1.16-pre7 (Added in v1.2)
-- Doors now stay loaded when relogging (Added in v1.2)
-- Optimized chunk loading/unloading when doors are created/destroyed (Added in v1.2)
-
-- Fixed a massive bug where entering a linked door would cause an incorrect door404 (Added in v1.3)
-
-- Updated for 1.16.2 (Added in v1.3.1)
 
 ---

@@ -1,14 +1,16 @@
-# Dimensional Doors v2.0.0 for Vanilla MC 1.15.X - 1.16.X
-- Code by [touchportal](https://github.com/touchportal/)
+# Dimensional Doors v3.00.00 for Vanilla MC 1.14.X - 1.19.X
+- Code by [touchportyl](https://github.com/touchportyl/)
 - Help from [Pundus](https://github.com/pundus/)
 
 # Features
-- Dimensional door
-- Another use for the conduit
 - Teleport entities massive distances and through dimensions
+- Increase the danger of dimensional doors by tweaking the config file
 - Use as a chunk loader
+- Another use for the conduit
 - Sound effects and particles
-- Multiplayer support
+- Advancements
+- Server and multiplayer support
+- Supports Minecraft versions 1.14 to 1.19
 
 # How to use
 - Place an oak door down
@@ -18,14 +20,14 @@
 - Use the entangled conduit it spawned to create another door
 - Open the door and walk through
 
+# Config
+- Toggle entity and environmental damage upon destroying a dimensional door (default: false)
+
 # Future updates
-- Optimizations
-- Automatically perform a safe teleport if the warp location is deemed dangerous (into lava, off a cliff, or into a solid wall)
-- Pocket dimensions using iron doors
-- Suggest more!
+- Suggest some!
 
 # Changelog
-You can find the full v2.0.0 changelog in changelog.md
+The changelog is no longer maintained.
 
 
 ---

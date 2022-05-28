@@ -13,8 +13,7 @@
 - Supports Minecraft versions 1.14 to 1.19
 
 # How to use
-- Place an oak door down
-- Open the door
+- Place an oak door down and open the door
 - Throw a Conduit onto the floor (where the door block is)
 - The door will automatically close and turn into a dimensional door
 - Use the entangled conduit it spawned to create another door
